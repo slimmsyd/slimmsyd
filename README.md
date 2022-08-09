@@ -1,4 +1,4 @@
-Web Developer and Smart-Contract Developer(Full-Stack)
+Web Developer and Web3 Developer(Full-Stack)
 ------------------------------------------------------
 
 I've been learning how to code for well over a year now. Specializing in front-end technologies. Found a passion and interest in smartcontract development! Been pursuing that as of now.
