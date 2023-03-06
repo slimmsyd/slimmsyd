@@ -5,9 +5,9 @@ I've been learning how to code for well over a year now. Specializing in front-e
 
 * 🌍  I'm based in Virginia
 * ✉️  You can contact me at [ssanderss444@gmail.com](mailto:ssanderss444@gmail.com)
-* 🚀  I'm currently working on [Culture University](http://culture-uni.vercel.app/)
-* 🧠  I'm learning Solidity
-* ⚡  Looking for a full-time position!
+* 🚀  I'm currently working on [CREATED2GROW](https://created2grow.com)
+* 🧠  Full-Stack Dev
+* ⚡  Looking to build things.
 
 <a href="https://www.twitter.com/slimmsyd" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/slimmsyd?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
