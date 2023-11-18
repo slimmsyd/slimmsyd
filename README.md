@@ -5,7 +5,7 @@ I've been learning how to code for well over a year now. Specializing in front-e
 
 * 🌍  I'm based in Virginia
 * ✉️  You can contact me at [ssanderss444@gmail.com](mailto:ssanderss444@gmail.com)
-* 🚀  I'm currently working on [CREATED2GROW](https://created2grow.com)
+* 🚀  I'm currently working on [DIGTIAL PLANET]
 * 🧠  Full-Stack Dev
 * ⚡  Looking to build things.
 
