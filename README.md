@@ -5,9 +5,8 @@ I've been learning how to code for well over a year now. Specializing in front-e
 
 * 🌍  I'm based in Virginia
 * ✉️  You can contact me at [ssanderss444@gmail.com](mailto:ssanderss444@gmail.com)
-* 🚀  I'm currently working on [DIGTIAL PLANET]
 * 🧠  Full-Stack Dev
-* ⚡  Looking to build things.
+* ⚡  Always building things.
 
 <a href="https://www.twitter.com/slimmsyd" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/slimmsyd?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
